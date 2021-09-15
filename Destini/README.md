@@ -1,5 +1,5 @@
 
-<img src="../Destini/My_Destiny.png" width="400"/>
+<img src="../Destini/My_Destiny.png" width="300"/>
 
 #  Destini
 
