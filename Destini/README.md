@@ -1,8 +1,7 @@
 
 #  Destini
 
-
-<img align="left" width="200" <img src="../Destini/My_Destiny.png"/>
+<img align="left" src="../Destini/My_Destiny.png" width="200"/>
 
 ## This is my completed challenge of creating Swift app with MVC design pattern in process of learning iOS Development.
 ### Destiny is storytelling application where you can select from two options and depending on choice you made ending will be different.
