@@ -1,5 +1,6 @@
 
 ![Destiny App Banner](../Destini/My_Destiny.png =400x)
+<img src="../Destini/My_Destiny.png" width="400" height="781" />
 
 #  Destini
 
