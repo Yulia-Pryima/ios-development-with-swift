@@ -1,7 +1,7 @@
 
-<img src="../Destini/My_Destiny.png" width="200"/>
-
 #  Destini
+
+<img src="../Destini/My_Destiny.png" width="200"/>
 
 ## This is my completed challenge of creating Swift app with MVC design pattern in process of learning iOS Development.
 
