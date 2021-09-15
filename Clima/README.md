@@ -3,7 +3,7 @@
 
 #  Clima
 
-## This is Swift application, created by me in process of learning iOS Development, in particular, about dark-mode, delegate patterns, Swift protocols and extensions, Swift computed properties and closures with completion handlers.
+## This is Swift application, created by me in process of learning iOS Development. In particular, about dark-mode, delegate patterns, Swift protocols and extensions, Swift computed properties and closures with completion handlers.
 
 ### Clima is a dark-mode enabled weather app. You can check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
 
