@@ -1,5 +1,5 @@
 
-![Destiny App Banner](../Destini/My_Destiny.png = 400x)
+![Destiny App Banner](../Destini/My_Destiny.png =400x)
 
 #  Destini
 
