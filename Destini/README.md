@@ -1,11 +1,11 @@
 
-![Destiny App Banner](../Destini/My_Destiny.png)
+![Destiny App Banner](../Destini/My_Destiny_sm.png)
 
 #  Destini
 
 ## This is my completed challenge of creating Swift app with MVC design pattern in process of learning iOS Development.
 
-## Destiny is storytelling application where you can select from two options and depending on choice you made ending will be different.
+### Destiny is storytelling application where you can select from two options and depending on choice you made ending will be different.
 
 
 
