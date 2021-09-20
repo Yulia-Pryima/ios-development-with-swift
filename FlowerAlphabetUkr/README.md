@@ -1,4 +1,4 @@
-<img align="left" src="../FlowerAlphabetUkr/Ukr_flower_alphabet.gif" width="370"/>
+<img align="left" src="../FlowerAlphabetUkr/Ukr_flower_alphabet.gif" width="600"/>
 
 
 #  UKRAINIAN FLOWER ALPHABET
