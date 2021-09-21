@@ -6,7 +6,6 @@
 #### This is a dark-mode enabled weather app. You can check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
 
 #### Clima is Swift application, created by me in process of learning iOS Development. What I've learned:
-
 * How to create a dark-mode enabled app.
 * How to use vector images as image assets.
 * Learn to use the UITextField to get user input. 
